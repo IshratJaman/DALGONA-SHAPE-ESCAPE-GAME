@@ -1,0 +1,6 @@
+public enum ShapeType {
+    CIRCLE, TRIANGLE,
+    SQUARE, DIAMOND,
+    HEART, STAR,
+    UMBRELLA, CRESCENT_MOON
+}
