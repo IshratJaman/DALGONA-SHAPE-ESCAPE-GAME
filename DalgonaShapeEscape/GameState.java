@@ -1,0 +1,9 @@
+public enum GameState {
+    SHAPE_SELECTION,
+    PLAYING,
+    PAUSED,
+    SUCCESS_POPUP,
+    LEVEL_VICTORY,
+    GAME_OVER,
+    FINAL_CONGRATULATIONS
+}
